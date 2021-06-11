@@ -14,8 +14,8 @@
   </details>
 　  
 Published Pages
-- see [*profile*](https://otsukotsu.github.io/OtsuKotsuIO/)  
-- see [*daily log*](https://otsukotsu.github.io/daily_log_publish/)  
+- see [***profile***](https://otsukotsu.github.io/OtsuKotsuIO/)  
+- see [***daily log***](https://otsukotsu.github.io/daily_log_publish/)  
 
 
 <!--
