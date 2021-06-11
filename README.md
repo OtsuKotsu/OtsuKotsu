@@ -1,6 +1,6 @@
-### Hi there 👋
----
-#### About ME
+### Hi there ! 👋
+  
+#### >__ About ME
 <details>  
 <summary>Interested in variety of fields in CS</summary>  
 
@@ -14,9 +14,9 @@
   :
   </details>
 
-#### Published Pages
-- see [***profile***](https://otsukotsu.github.io/OtsuKotsuIO/)  
-- see [***daily log***](https://otsukotsu.github.io/daily_log_publish/)  
+#### >__ Published Pages
+- see [***profile page***](https://otsukotsu.github.io/OtsuKotsuIO/)  
+- see [***daily log***](https://otsukotsu.github.io/daily_log_publish/) to check recent activities  
 
 
 <!--
