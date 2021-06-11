@@ -1,7 +1,8 @@
-### About ME
+### Hi there 👋
 ---
+#### About ME
 <details>  
-<summary>Interested in variety of field in CS</summary>  
+<summary>Interested in variety of fields in CS</summary>  
 
 - *Machine Learning*
 - *Algorithm & Data Structure*
@@ -12,8 +13,8 @@
   - *graphics*  
   :
   </details>
-　  
-Published Pages
+
+#### Published Pages
 - see [***profile***](https://otsukotsu.github.io/OtsuKotsuIO/)  
 - see [***daily log***](https://otsukotsu.github.io/daily_log_publish/)  
 
