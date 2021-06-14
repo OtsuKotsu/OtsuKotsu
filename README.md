@@ -1,7 +1,7 @@
 ### Hi there ! 👋
   
 #### >__ About ME
-self motivated student  
+- self motivated student  
 
 <details>  
 <summary>Interested in variety of fields in CS</summary>  
