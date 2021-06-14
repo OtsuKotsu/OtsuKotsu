@@ -12,8 +12,9 @@
   - *computer architecture*  
   - *network*  
   - *OS*  
-  - *graphics*  
-  :
+  - *graphics*
+  - *UI*  
+  :  
   </details>
 
 #### >__ Published Pages
