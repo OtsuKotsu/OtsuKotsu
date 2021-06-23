@@ -26,9 +26,11 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtsuKotsu&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtsuKotsu&langs_count=10&layout=compact&theme=gruvbox)  
 
+<!--
 #### >__ Pinned
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OtsuKotsu&repo=daily_log&theme=gruvbox)](https://github.com/OtsuKotsu/daily_log)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OtsuKotsu&repo=algolib&theme=gruvbox)](https://github.com/OtsuKotsu/algolib)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OtsuKotsu&repo=competition_cpp&theme=gruvbox)](https://github.com/OtsuKotsu/competition_cpp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OtsuKotsu&repo=training_rust&theme=gruvbox)](https://github.com/OtsuKotsu/training_rust)  
+-->
 
