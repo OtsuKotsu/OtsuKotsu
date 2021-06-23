@@ -1,26 +1,11 @@
-### Hi there ! 👋
-  
 #### >__ About ME
 - self motivated student  
-
-<details>  
-<summary>Interested in variety of fields in CS</summary>  
-
-- *Machine Learning*
-- *Algorithm & Data Structure*
-- and how the computer works
-  - *computer architecture*  
-  - *network*  
-  - *OS*  
-  - *graphics*
-  - *UI*  
-  :  
-  </details>
+- Interested in variety of fields in CS  
+  *ML* / *Algorithm & Data Structure* / How the computer works (*architecture*, *OS*, *network*, ..)  
 
 #### >__ Published Pages
 - see [***profile page***](https://otsukotsu.github.io/OtsuKotsuIO/)  
 - see [***daily log***](https://otsukotsu.github.io/daily_log_publish/) to check recent activities  
-
 
 <!--
 **OtsuKotsu/OtsuKotsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,3 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### >__ Stats ([github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtsuKotsu&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtsuKotsu&langs_count=10&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)  
