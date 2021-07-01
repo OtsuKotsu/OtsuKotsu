@@ -1,9 +1,9 @@
-#### >__ About ME
+### >__ About ME
 - self motivated student  
 - Interested in variety of fields in CS  
   *ML* / *Algorithm & Data Structure* / How the computer works (*architecture*, *OS*, *network*, ..)  
 
-#### >__ Published Pages
+### >__ Published Pages
 <!-- - see [***profile page***](https://otsukotsu.github.io/OtsuKotsuIO/)   -->
 - see [***daily log***](https://otsukotsu.github.io/daily_log_publish/) to check recent activities  
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### >__ Stats ([github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+### >__ Stats ([github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtsuKotsu&show_icons=true&theme=prussian)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtsuKotsu&langs_count=10&layout=compact&theme=prussian)  
 
