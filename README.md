@@ -4,7 +4,7 @@
   *ML* / *Algorithm & Data Structure* / How the computer works (*architecture*, *OS*, *network*, ..)  
 
 #### >__ Published Pages
-- see [***profile page***](https://otsukotsu.github.io/OtsuKotsuIO/)  
+<!-- - see [***profile page***](https://otsukotsu.github.io/OtsuKotsuIO/)   -->
 - see [***daily log***](https://otsukotsu.github.io/daily_log_publish/) to check recent activities  
 
 <!--
