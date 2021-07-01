@@ -5,7 +5,7 @@
 
 ### >__ Published Pages
 <!-- - see [***profile page***](https://otsukotsu.github.io/OtsuKotsuIO/)   -->
-- see [***daily log***](https://otsukotsu.github.io/daily_log_publish/) to check recent activities  
+- see [***Daily Log***](https://otsukotsu.github.io/daily_log_publish/) to check recent activities  
 
 <!--
 **OtsuKotsu/OtsuKotsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
