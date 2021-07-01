@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 -->
 
 #### >__ Stats ([github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtsuKotsu&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtsuKotsu&langs_count=10&layout=compact&theme=gruvbox)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtsuKotsu&show_icons=true&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtsuKotsu&langs_count=10&layout=compact&theme=prussian)  
 
 <!--
 #### >__ Pinned
