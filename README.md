@@ -1,7 +1,7 @@
 ### >__ About ME
 - Self motivated student  
 - Interested in variety of fields in CS  
-  *ML* / *Algorithm & Data Structure* / How the computer works (*architecture*, *OS*, *network*, ..)  
+  *ML* / *Algorithm & Data Structure* / How the computer works (*cpu architecture*, *OS*, *network*, ..)  
 
 ### >__ Published Pages
 <!-- - see [***profile page***](https://otsukotsu.github.io/OtsuKotsuIO/)   -->
