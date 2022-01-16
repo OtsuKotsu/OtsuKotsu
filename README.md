@@ -1,11 +1,10 @@
 ### >__ About ME
-- Self motivated student  
 - Interested in variety of fields in CS  
   *ML* / *Algorithm & Data Structure* / How the computer works (*cpu architecture*, *OS*, *network*, ..)  
 
 ### >__ Published Pages
 <!-- - see [***profile page***](https://otsukotsu.github.io/OtsuKotsuIO/)   -->
-- **Check activities on 2021: [**Daily Log**](https://otsukotsu.github.io/daily_log_publish/)**  
+- **Check activities on 2021: [Daily Log](https://otsukotsu.github.io/daily_log_publish/)**  
 
 <!--
 **OtsuKotsu/OtsuKotsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
