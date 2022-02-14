@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 #### > Interested in
-&nbsp;&nbsp;&nbsp;&nbsp; Variety of fields in CS
+&nbsp;&nbsp; **Variety of fields in CS**
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; ML / Algorithm & Data Structure
 <br>
