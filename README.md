@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 -->
 
 #### > Interested in
-&nbsp;&nbsp; **Variety of fields in CS**
-<br>
+<!-- Variety of fields in CS -->
 &nbsp;&nbsp;&nbsp;&nbsp; ML / Algorithm & Data Structure
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; / Computer Architecture, OS, Networking, ..
+&nbsp;&nbsp;&nbsp;&nbsp; / Computer Architecture / OS / Networking, ..
 
 #### > Pages & Stats
 &nbsp;&nbsp;&nbsp;&nbsp; [Activities on 2021: Daily Log](https://otsukotsu.github.io/daily_log_publish/)
