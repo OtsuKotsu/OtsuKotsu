@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp; [Activities on 2021: Daily Log](https://otsukotsu.github.io/daily_log_publish/)
 <br>
 <br>
-&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtsuKotsu&langs_count=10&layout=compact&theme=prussian&hide=jupyter%20notebook,css,HTML)
+&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtsuKotsu&langs_count=10&layout=compact&theme=prussian&hide=jupyter%20notebook,css,html)
 <br>
 &nbsp;&nbsp;&nbsp; Ignore: notebook, css, html
 <br>
